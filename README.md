@@ -59,7 +59,9 @@ Outside of AI infrastructure, I build small, real tools for the Ethiopian market
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,ts,js,nodejs,go,rust,python,postgres,mongodb,redis,pytorch,docker,kubernetes,aws,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,ts,js,nodejs,go,python,fastapi&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=rust,postgres,mongodb,redis,pytorch,docker,kubernetes,aws,gcp&theme=dark" />
 
 </div>
 
