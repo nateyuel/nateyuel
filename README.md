@@ -95,8 +95,9 @@ Outside of AI infrastructure, I build small, real tools for the Ethiopian market
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=nateyuel&label=Profile%20Views&color=818CF8&style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/github/stars/nateyuel?label=Stars&style=for-the-badge&color=818CF8&labelColor=0F0F14&logo=github&logoColor=818CF8" height="28"/>
+<img src="https://komarev.com/ghpvc/?username=nateyuel&label=Profile%20Views&color=818CF8&style=for-the-badge" height="24"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/nateyuel?label=Stars&style=for-the-badge&color=818CF8&labelColor=0F0F14&logo=github&logoColor=818CF8" height="24"/>
 
 </div>
 
@@ -104,10 +105,8 @@ Outside of AI infrastructure, I build small, real tools for the Ethiopian market
 
 <div align="center">
 
-<a href="https://linkedin.com/in/natnaeleyuel">
-<img src="https://raw.githubusercontent.com/nateyuel/nateyuel/main/assets/linkedin-badge.svg" />
-</a>
-
+<a href="https://linkedin.com/in/natnaeleyuel"><img src="https://raw.githubusercontent.com/nateyuel/nateyuel/main/assets/linkedin-badge.svg" width="100" height="28" /></a>
+&nbsp;
 <a href="mailto:nate.eyuel@gmail.com">
 <img src="https://img.shields.io/badge/Email-0F0F14?style=for-the-badge&logo=gmail&logoColor=818CF8" />
 </a>
