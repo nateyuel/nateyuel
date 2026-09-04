@@ -94,6 +94,15 @@ Outside of AI infrastructure, I build small, real tools for the Ethiopian market
 <br/>
 
 <div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=nateyuel&label=Profile%20Views&color=818CF8&style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/github/stars/nateyuel?label=Stars&style=for-the-badge&color=818CF8&labelColor=0F0F14&logo=github&logoColor=818CF8" height="28"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <a href="https://linkedin.com/in/natnaeleyuel">
 <img src="https://raw.githubusercontent.com/nateyuel/nateyuel/main/assets/linkedin-badge.svg" />
